@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-<p>🖥️ java dev intern - 📕 studying information systems </p>
+<p>🖥️ java 🖥️</p>
 </div>
 
 ------------------------------------------------------------------
